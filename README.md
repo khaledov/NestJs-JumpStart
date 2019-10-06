@@ -60,16 +60,14 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Postman
+Run the server firstly then just open NestJs-Demo.postman_collection.json in your local postman and start tasting NestJs
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-  Nest is [MIT licensed](LICENSE).
+- Author - [Khaled Ramadan](https://github.com/khaledov)
+- Website - [https://itpharaohs.com](https://itpharaohs.com/)
